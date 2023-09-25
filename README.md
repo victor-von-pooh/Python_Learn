@@ -9,7 +9,7 @@ Pythonのプログラミングができるようになることを目的とし�
 TBA
 
 ## Pythonで機械学習編
-TBA
+Hogehoge
 
 ## Pythonで量子プログラミング編
 TBA
