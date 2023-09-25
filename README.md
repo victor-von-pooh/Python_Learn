@@ -6,10 +6,10 @@ Pythonのプログラミングができるようになることを目的とし�
 2. Pythonのライブラリを活用する
 
 ## Pythonで最適化編
-TBA
+Hogehoge
 
 ## Pythonで機械学習編
 Hogehoge
 
 ## Pythonで量子プログラミング編
-TBA
+Hogehoge
